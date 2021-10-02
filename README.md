@@ -69,10 +69,8 @@ HTML, CSS, JS, React, Redux
 
 ## 🥾 현재 하는 일 
 - 웹에이전시 근무중
-- 개인 블로그 운영중(https://velog.io/@404)
-- 개인 깃허브 운영중(https://github.com/KimDongUk93)
 - 숨고 프리랜서 활동중(https://soomgo.com/)
-- 개인 홈페이지 운영중(준비중)
+- 개인 블로그 운영중(https://velog.io/@404)
 
 ## 😄 관심
 - GSAP, CANVAS, P3등 자바스크립트 애니메이션 라이브러리를 이용한 인터렉티브한 웹페이지 제작에 큰 관심이 있음
