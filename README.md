@@ -1,26 +1,25 @@
 # _👋 안녕하세요 프론트엔드 개발자 김동욱입니다!_
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
->**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**
+>**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**  
 >Homepage : 준비중...    
 >Email : ehddnr3540@gmail.com    
->kakaoID : ehddnr3540    
+>KakaoID : ehddnr3540    
 >Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
-
 ## 💬 소개
-- `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해`도가 높음
-- 지속적인 `자바스크립트` 공부와 새로운 기술에 많은 흥미를 가짐
-- 디자인부터 백엔드까지 모두 경험, `개발자와 디자이너의 고충과 협업점을 잘 `
-- `HTTP 통신`과 `RestAPI`를 이해하고있음
-- 개발외주 경험과 코딩레슨 경험이 있음(숨고)
-- php, asp, jsp, node등 `다양한 개발환경 프로젝트 경험`
-- 워드프레스, 그누보드등 다양한 CMS개발환경 프로젝트 제작 경험
-- 다수의 부산 관공서 사이트, 대학교 사이트를 제작 및 유지보수하여 웹접근성, 크로스브라우징에 대한 이해도가 높음
-- 금연 성공, 금주 성공, 다이어트 30kg 체중 감소, 게임 중독 해결, 자신감 부족등 다양한 자신의 문제점을 의지로 극복
-- 취미로 기타를 치며 60회 이상의 공연 경험, 기타 레슨 경험이 있음
+1. `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해도`가 높음
+2. 지속적인 `자바스크립트` 공부와 새로운 기술에 많은 흥미를 가짐
+3. 디자인부터 백엔드까지 모두 경험, `개발자와 디자이너의 고충과 협업점을 잘 `
+4. `HTTP 통신`과 `RestAPI`를 이해하고있음
+5. 개발외주 경험과 코딩레슨 경험이 있음(숨고)
+6. php, asp, jsp, node등 `다양한 개발환경 프로젝트 경험`
+7. 워드프레스, 그누보드등 다양한 CMS개발환경 프로젝트 제작 경험
+8. 다수의 부산 관공서 사이트, 대학교 사이트를 제작 및 유지보수하여 웹접근성, 크로스브라우징에 대한 이해도가 높음
+9. 금연 성공, 금주 성공, 다이어트 30kg 체중 감소, 게임 중독 해결, 자신감 부족등 다양한 자신의 문제점을 의지로 극복
+0. 취미로 기타를 치며 60회 이상의 공연 경험, 기타 레슨 경험이 있음
 
 ## 🔭 경력
-- 다원 스튜디오 : 2019.10 ~ 2020.06 (웹디자인, 웹퍼블리싱)
-- 더웹스 : 2020.12 ~ (웹퍼블리싱, 프론트엔드)
+- 19.10 ~ 20.06 : 다원 스튜디오(웹디자인, 웹퍼블리싱)
+- 20.12 ~ : 더웹스(웹퍼블리싱, 프론트엔드)
 
 ## 📜프로젝트
 | 프로젝트 | 주소 |
@@ -49,23 +48,19 @@
 
 
 ## 🌱 기술스택
-#### `- 메인으로 사용해요` 
-#
+### `- 메인으로 사용해요` 
  ```sh
 HTML, CSS, JS, React, Redux
 ```
-#### `- 관심이 많아요` 
-#
+### `- 관심이 많아요` 
 ```sh
 - Sass, TypeScript, GSAP
 ```
-#### `- 이해는 하고있어요` 
-#
+### `- 이해는 하고있어요` 
 ```sh
 - Express, PHP, MongoDB, MySQL
 ```
-#### `- 사용하는 도구들이에요`
-#
+### `- 사용하는 도구들이에요`
 ```sh
 - `DEV` : Jest, Git, Webpack, VSCode
 - `DESIGN` : Adobe Photoshop, Adobe 
