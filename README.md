@@ -2,6 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
 >**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**  
 >Homepage : 준비중...    
+>Blog : https://velog.io/@404    
 >Email : ehddnr3540@gmail.com    
 >KakaoID : ehddnr3540    
 >Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
