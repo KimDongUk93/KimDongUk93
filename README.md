@@ -1,5 +1,6 @@
 # 👋 안녕하세요 프론트엔드 개발자 김동욱입니다!
 새로운 가치를 만들고 싶은 주니어 개발자입니다~
+개인사이트 : 준비중...
 
 ## 💬 소개
 - `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해`도가 높음
@@ -22,6 +23,9 @@
 - DASS기반 글로벌 오션시티 구축사업(http://dronesvc.kr/)
 - 부산시설공단(https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv)
 - 조선통신사행열(http://www.tongsinsa.com/html/popup/journey/party_start.html)
+
+#### 개인 프로젝트
+준비중...
 
 ## ⚡ 유지보수 및 참여
 - 부산서구청(https://www.bsseogu.go.kr/index.bsseogu)
