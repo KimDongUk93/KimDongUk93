@@ -3,8 +3,8 @@
 >**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**
 >Homepage : 준비중...    
 >Email : ehddnr3540@gmail.com    
->kakaoID : ehddnr3540
-> Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
+>kakaoID : ehddnr3540    
+>Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
 
 ## 💬 소개
 - `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해`도가 높음
@@ -49,22 +49,22 @@
 
 
 ## 🌱 기술스택
-##### `- 메인으로 사용해요` 
+#### `- 메인으로 사용해요` 
 #
  ```sh
 HTML, CSS, JS, React, Redux
 ```
-##### `- 관심이 많아요` 
+#### `- 관심이 많아요` 
 #
 ```sh
 - Sass, TypeScript, GSAP
 ```
-##### `- 이해는 하고있어요` 
+#### `- 이해는 하고있어요` 
 #
 ```sh
 - Express, PHP, MongoDB, MySQL
 ```
-##### `- 사용하는 도구들이에요`
+#### `- 사용하는 도구들이에요`
 #
 ```sh
 - `DEV` : Jest, Git, Webpack, VSCode
