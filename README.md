@@ -1,5 +1,10 @@
-# 👋 안녕하세요 프론트엔드 개발자 김동욱입니다!
->새로운 가치를 만들고 싶은 주니어 개발자입니다~     
+# _👋 안녕하세요 프론트엔드 개발자 김동욱입니다!_
+
+
+<img src="https://img.shields.io/badge/#333333?style=for-the-badge&logo=javascript&logoColor=#555555"/>
+
+
+>만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~
 >Homepage : 준비중...    
 >Email : ehddnr3540@gmail.com    
 >kakaoID : ehddnr3540
@@ -16,39 +21,56 @@
 - 금연 성공, 금주 성공, 다이어트 30kg 체중 감소, 게임 중독 해결, 자신감 부족등 다양한 자신의 문제점을 의지로 극복
 - 취미로 기타를 치며 60회 이상의 공연 경험, 기타 레슨 경험이 있음
 
-## 📫 프로젝트
-- 신오포리마(http://www.shinohpoly.com/) `처음으로 만든 사이트`
-- 토탈아즈(http://totalaz2020.cafe24.com/theme/basic/sub/index01.php)
-- 101코딩랩컴학원(http://codinglab2020.cafe24.com/)
-- 부산수영구정신건강복지센터(http://mental21.mycafe24.com/)
-- 부산학교폭력예방회복조정센터(http://www.bsyc.or.kr/main/main.php)
-- DASS기반 글로벌 오션시티 구축사업(http://dronesvc.kr/)
-- 부산시설공단(https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv)
-- 조선통신사행열(http://www.tongsinsa.com/html/popup/journey/party_start.html)
+## 🔭 경력
+- 다원 스튜디오 : 2019.10 ~ 2020.06 (웹디자인, 웹퍼블리싱)
+- 더웹스 : 2020.12 ~ (웹퍼블리싱, 프론트엔드)
+
+## 📜프로젝트
+| 프로젝트 | 주소 |
+| ------ | ------ |
+| 신오포리마(첫사이트) | http://www.shinohpoly.com |
+| 토탈아즈 | http://totalaz2020.cafe24.com/theme/basic/sub/index01.php |
+| 101코딩랩컴학원 | http://codinglab2020.cafe24.com/ |
+| 부산수영구정신건강복지센터 | http://mental21.mycafe24.com/ |
+| 부산학교폭력예방회복조정센터 | http://www.bsyc.or.kr/main/main.php |
+| DASS기반 글로벌 오션시티 구축사업 | http://dronesvc.kr/ |
+| 부산시설공단 | https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv |
+| 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html |
 
 ## 📫 개인 프로젝트
 준비중...
 
-## ⚡ 유지보수 및 참여
-- 부산서구청(https://www.bsseogu.go.kr/index.bsseogu)
-- 부산남구평생교육센터(https://www.bsnamgu.go.kr/edu/main/main.php)
-- 동명대학교(https://www.tu.ac.kr/tuhome/index.do)
-- 동의대학교(https://www.deu.ac.kr/www)
-- 부산디지털대학교(제작중...)
-- 기타 복지관, 센터...
+## 📚 참여프로젝트
+| 프로젝트 | 주소 |
+| ------ | ------ |
+| 부산서구청 | https://www.bsseogu.go.kr/index.bsseogu |
+| 부산남구평생교육센터 | https://www.bsnamgu.go.kr/edu/main/main.php |
+| 동명대학교 | https://www.tu.ac.kr/tuhome/index.do |
+| 동의대학교 | https://www.deu.ac.kr/www |
+| 부산디지털대학교 | 제작중... |
+| 기타 복지관, 센터... |  |
+
 
 ## 🌱 기술스택
 ##### `- 메인으로 사용해요` 
-- HTML, CSS, JS, React, Redux
+```sh
+HTML, CSS, JS, React, Redux
+```
 ##### `- 관심이 많아요` 
+```sh
 - Sass, TypeScript, GSAP
+```
 ##### `- 이해는 하고있어요` 
+```sh
 - Express, PHP, MongoDB, MySQL
+```
 ##### `- 사용하는 도구들이에요`
+```sh
 - `DEV` : Jest, Git, Webpack, VSCode
 - `DESIGN` : Adobe Photoshop, Adobe 
+```
 
-## 👯 현재 하는 일 
+## 🥾 현재 하는 일 
 - 웹에이전시 근무중
 - 개인 블로그 운영중(https://velog.io/@404)
 - 개인 깃허브 운영중(https://github.com/KimDongUk93)
@@ -62,11 +84,7 @@
 - 모던자바스크립트(ES6, React, Typescript)에 큰 관심이 있음
 - 프론트엔드를 넘어선 다른 영역에도 큰 관심이 있음
 
-## 🔭 경력
-- 다원 스튜디오 : 2019.10 ~ 2020.06 (웹디자인, 웹퍼블리싱)
-- 더웹스 : 2020.12 ~ (웹퍼블리싱, 프론트엔드)
-
-## 💬 학력
+## 🙆‍ 학력
 - 동명대학교 : 시각디자인과
 - 그린컴퓨터 아카데미 : 웹디자이너 과정
 - 코리아IT아카데미 : 프론트엔드 개발 과정
