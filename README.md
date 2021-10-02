@@ -1,14 +1,17 @@
 # _👋 안녕하세요 프론트엔드 개발자 김동욱입니다!_
-
-
-<img src="https://img.shields.io/badge/#333333?style=for-the-badge&logo=javascript&logoColor=#555555"/>
-
-
->만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~
+#
+#
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
+#
+#
+>**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**
 >Homepage : 준비중...    
 >Email : ehddnr3540@gmail.com    
 >kakaoID : ehddnr3540
-
+> ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
+#
+#
+#
 ## 💬 소개
 - `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해`도가 높음
 - 지속적인 `자바스크립트` 공부와 새로운 기술에 많은 흥미를 가짐
@@ -53,18 +56,22 @@
 
 ## 🌱 기술스택
 ##### `- 메인으로 사용해요` 
-```sh
+#
+ ```sh
 HTML, CSS, JS, React, Redux
 ```
 ##### `- 관심이 많아요` 
+#
 ```sh
 - Sass, TypeScript, GSAP
 ```
 ##### `- 이해는 하고있어요` 
+#
 ```sh
 - Express, PHP, MongoDB, MySQL
 ```
 ##### `- 사용하는 도구들이에요`
+#
 ```sh
 - `DEV` : Jest, Git, Webpack, VSCode
 - `DESIGN` : Adobe Photoshop, Adobe 
