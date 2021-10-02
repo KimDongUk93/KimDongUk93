@@ -14,14 +14,14 @@
 - 취미로 기타를 치며 60회 이상의 공연 경험, 기타 레슨 경험이 있음
 
 ## 📫 프로젝트
-- 신오포리마(http://www.shinohpoly.com/)`처음으로 만든 사이트`
+- 신오포리마(http://www.shinohpoly.com/) `처음으로 만든 사이트`
 - 토탈아즈(http://totalaz2020.cafe24.com/theme/basic/sub/index01.php)
 - 101코딩랩컴학원(http://codinglab2020.cafe24.com/)
 - 부산수영구정신건강복지센터(http://mental21.mycafe24.com/)
 - 부산학교폭력예방회복조정센터(http://www.bsyc.or.kr/main/main.php)
 - DASS기반 글로벌 오션시티 구축사업(http://dronesvc.kr/)
 - 부산시설공단(https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv)
-- 조선통신사(http://www.tongsinsa.com/html/procession.html)
+- 조선통신사행열(http://www.tongsinsa.com/html/popup/journey/party_start.html)
 
 ## ⚡ 유지보수 및 참여
 - 부산서구청(https://www.bsseogu.go.kr/index.bsseogu)
