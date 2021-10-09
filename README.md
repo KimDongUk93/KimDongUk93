@@ -55,16 +55,16 @@ HTML, CSS, JS, React, Redux
 ```
 ### `- 관심이 많아요` 
 ```sh
-- Sass, TypeScript, GSAP
+- Sass,Bootstrap, ES6, TypeScript, GSAP
 ```
 ### `- 이해는 하고있어요` 
 ```sh
-- Express, PHP, MongoDB, MySQL
+- Express, PHP, ASP, MongoDB, MySQL
 ```
 ### `- 사용하는 도구들이에요`
 ```sh
-- `DEV` : Jest, Git, Webpack, VSCode
-- `DESIGN` : Adobe Photoshop, Adobe 
+- `DEV` : Git, Webpack, VSCode
+- `DESIGN` : Adobe Photoshop | Illustration | XD
 ```
 
 ## 🥾 현재 하는 일 
