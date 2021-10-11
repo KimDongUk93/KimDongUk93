@@ -51,11 +51,11 @@
 ## 🌱 기술스택
 ### `- 메인으로 사용해요` 
  ```sh
-HTML, CSS, JS, React, Redux
+`HTML, CSS, JS, React, Redux`
 ```
 ### `- 관심이 많아요` 
 ```sh
-- Sass, Bootstrap, ES6, TypeScript, GSAP
+- `Sass, Bootstrap, TypeScript, GSAP, Next.js`
 ```
 ### `- 이해는 하고있어요` 
 ```sh
