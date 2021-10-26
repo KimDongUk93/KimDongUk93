@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
 >**만들기를 좋아하고 새로운 가치를 찾는 주니어 개발자입니다~**  
 >Homepage : 준비중...    
->Connect(숨고) : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C
+>Connect(숨고) : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
 >Blog : https://velog.io/@404    
 >Email : ehddnr3540@gmail.com    
 >KakaoID : ehddnr3540    
