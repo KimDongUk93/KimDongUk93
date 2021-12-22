@@ -34,7 +34,8 @@
 | 부산학교폭력예방회복조정센터 | http://www.bsyc.or.kr/main/main.php |
 | DASS기반 글로벌 오션시티 구축사업 | http://dronesvc.kr/ |
 | 부산시설공단 | https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv |
-| 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html |
+| 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html | 
+| 부산연제문화원 | http://yjculture.co.kr/ |
 
 ## 📫 개인 프로젝트
 준비중...
