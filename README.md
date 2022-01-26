@@ -9,16 +9,15 @@
 >KakaoID : ehddnr3540    
 >Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
 ## 💬 소개
-1. `디자인과 출신`(시각디자인과)이라서 그런지 `CSS를 이용한 디자인, 애니메이션에 대한 이해도`가 높음
-2. 지속적인 `자바스크립트` 공부와 새로운 기술에 많은 흥미를 가짐
-3. 디자인부터 백엔드까지 모두 경험, `개발자와 디자이너의 고충과 협업점을 잘 `
-4. `HTTP 통신`과 `RestAPI` `벡엔드통신(Node)`를 이해하고있음
-5. 개발외주 경험과 코딩레슨 경험이 있음(숨고)
-6. php, asp, jsp, node등 `다양한 개발환경 프로젝트 경험`
-7. 워드프레스, 그누보드등 다양한 CMS개발환경 프로젝트 제작 경험
-8. 다수의 부산 관공서 사이트, 대학교 사이트를 제작 및 유지보수하여 웹접근성, 크로스브라우징에 대한 이해도가 높음
-9. 금연 성공, 금주 성공, 다이어트 30kg 체중 감소, 게임 중독 해결, 자신감 부족등 다양한 자신의 문제점을 의지로 극복
-0. 취미로 기타를 치며 60회 이상의 공연 경험, 기타 레슨 경험이 있음
+- 디자인과 출신이어서 CSS와 자바스크립트를 이용한 디자인, 애니메이션에 대한 이해도가 높습니다. 
+- 지속적인 자바스크립트 공부와 새로운 기술에 많은 흥미를 느낍니다. 
+- 블로그, 깃허브, 외주작업등 회사 이외에도 끊임없이 활동을 이어가고 있습니다. 
+- 디자인부터 백엔드까지 모두 경험하여 HTTP 통신, RestAPI, 벡엔드를 이해하고 있습니다. 
+- 개발 및 디자인 외주 경험과 코딩레슨을 하고 있습니다. (숨고) 
+- php, asp, jsp, node등 다양한 개발환경에서 프로젝트를 하였습니다. 
+- 워드프레스, 그누보드 등 다양한 CMS 개발환경에서 프로젝트를 진행하였습니다. 
+- 다수의 부산 관공서 사이트, 대학교 사이트를 제작 및 유지보수하여 웹 접근성, 크로스 브라우징에 대한 이해도가 높습니다. 
+- 금연 성공, 금주 성공, 다이어트 30kg 체중 감소, 게임 중독 해결, 자신감 부족 등 다양한 자신의 문제점을 의지로 극복하였습니다. 
 
 ## 🔭 경력
 - 19.10 ~ 20.06 : 다원 스튜디오(웹디자인, 웹퍼블리싱)
@@ -36,7 +35,7 @@
 | 부산시설공단 | https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv |
 | 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html | 
 | 부산연제문화원 | http://yjculture.co.kr/ | 
-| 부산문화재단 ONAT | ... | 
+| 부산문화재단 ONAT | http://onat.thewebs.kr/ | 
 | 부산문화재단 | ... |
 
 ## 📫 개인 프로젝트
@@ -61,7 +60,7 @@
 ```
 ### `- 관심이 많아요` 
 ```sh
-- `Sass, Bootstrap, TypeScript, GSAP, Next.js`
+- `Sass, Bootstrap, TypeScript, GSAP, Next.js, `
 ```
 ### `- 이해는 하고있어요` 
 ```sh
