@@ -1,7 +1,7 @@
-# 👋 안녕하세요 프론트엔드 개발자 김동욱입니다!👋
+# 👋 안녕하세요 UI/UX 개발자 김동욱입니다.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
->**만들기를 좋아하고 새로운 것을 추구하는 주니어 개발자입니다~**   
->State : `리액트+리덕스+자바스크립트(타입스크립트)를 활용한 프론트엔드 개발`에 관심이 많습니다.      
+>현재 프론트엔드 개발을 하고있습니다.  
+>State : 현재 `Next.js + Redux + TypeScript` 프론트 에 관심이 많습니다.      
 >Homepage : 준비중...    
 >Connect(숨고) : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
 >Blog : https://velog.io/@404    
@@ -58,13 +58,13 @@
  ```sh
 `HTML, CSS, JS, React, Redux`
 ```
-### `- 관심이 많아요` 
+### `- 관심이 많고 사용할 줄은 알아요` 
 ```sh
-- `Sass, Bootstrap, TypeScript, GSAP, Next.js, `
+- `Sass, Bootstrap, TypeScript, GSAP, GraphQL, Express`
 ```
 ### `- 이해는 하고있어요` 
 ```sh
-- Node, PHP, ASP, JSP, MongoDB, MySQL
+- PHP, ASP, JSP, MongoDB, MySQL
 ```
 ### `- 사용하는 도구들이에요`
 ```sh
@@ -73,7 +73,6 @@
 ```
 
 ## 🥾 현재 하는 일 
-- 웹에이전시 근무중
 - 숨고 프리랜서 활동중(https://soomgo.com/)
 - 개인 블로그 운영중(https://velog.io/@404)
 
