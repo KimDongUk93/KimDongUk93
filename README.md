@@ -42,6 +42,7 @@
 | 프로젝트 | 주소 |
 | ------ | ------ |
 | 리액트 영화검색앱 | https://github.com/KimDongUk93/MovieApp_React |
+| 리액트+리덕스+타입스크립트 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_ReactReduxTS |
 
 ## 📚 참여프로젝트
 | 프로젝트 | 주소 |
