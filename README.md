@@ -1,13 +1,15 @@
 # 👋 안녕하세요 UI/UX 개발자 김동욱입니다.
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark)
->현재 프론트엔드 개발을 하고있습니다.  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
 >State : 현재 `Next.js + Redux + TypeScript` 프론트 에 관심이 많습니다.      
->Homepage : 준비중...    
->Connect(숨고) : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
->Blog : https://velog.io/@404    
+>Homepage : 준비중... 
 >Email : ehddnr3540@gmail.com    
 >KakaoID : ehddnr3540    
 >Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
+
+
+> ### Connect(숨고) : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
+> ### Blog(벨로그) : https://velog.io/@404  
+
 ## 💬 소개
 - 디자인과 출신이어서 CSS와 자바스크립트를 이용한 디자인, 애니메이션에 대한 이해도가 높습니다. 
 - 지속적인 자바스크립트 공부와 새로운 기술에 많은 흥미를 느낍니다. 
