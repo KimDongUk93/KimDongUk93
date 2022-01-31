@@ -26,12 +26,7 @@
 ## 📜프로젝트
 | 프로젝트 | 주소 |
 | ------ | ------ |
-| 신오포리마(첫사이트) | http://www.shinohpoly.com |
-| 토탈아즈 | http://totalaz2020.cafe24.com/theme/basic/sub/index01.php |
-| 101코딩랩컴학원 | http://codinglab2020.cafe24.com/ |
-| 부산수영구정신건강복지센터 | http://mental21.mycafe24.com/ |
 | 부산학교폭력예방회복조정센터 | http://www.bsyc.or.kr/main/main.php |
-| DASS기반 글로벌 오션시티 구축사업 | http://dronesvc.kr/ |
 | 부산시설공단 | https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv |
 | 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html | 
 | 부산연제문화원 | http://yjculture.co.kr/ | 
@@ -43,6 +38,9 @@
 | ------ | ------ |
 | 리액트 영화검색앱 | https://github.com/KimDongUk93/MovieApp_React |
 | 리액트+리덕스+타입스크립트 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_ReactReduxTS |
+| MERN(MongoDB, Express, React) 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_MERN |
+| (MongoDB, Express) 마크다운 블로그앱 | https://github.com/KimDongUk93/MarkDownBlog_ExpressMongoDB |
+| 자바스크립트 프로젝트 | https://github.com/KimDongUk93/JavascriptProject |
 
 ## 📚 참여프로젝트
 | 프로젝트 | 주소 |
@@ -50,8 +48,6 @@
 | 부산서구청 | https://www.bsseogu.go.kr/index.bsseogu |
 | 부산남구평생교육센터 | https://www.bsnamgu.go.kr/edu/main/main.php |
 | 대구동구청 | https://www.dong.daegu.kr/ |
-| 동명대학교 | https://www.tu.ac.kr/tuhome/index.do |
-| 동의대학교 | https://www.deu.ac.kr/www |
 | 부산디지털대학교 | https://www.bdu.ac.kr/bduhome/index.do |
 | 기타 부산내 복지관·센터 유지보수 |  |
 
