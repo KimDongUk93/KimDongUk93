@@ -7,8 +7,11 @@
 >Main Skill : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
 
 ## 🥾 현재 하는 일 
-> #### 숨고 프리랜서 활동중 : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C
-> #### 개인 블로그 운영중(벨로그) : https://velog.io/@404  
+> `개인 블로그 운영중(벨로그)` : https://velog.io/@404  
+> `백준 알고리즘 풀이중(브론즈)` : https://www.acmicpc.net/user/ehddnr3540  
+> `숨고 프리랜서 활동중` : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
+
+![숨고](https://user-images.githubusercontent.com/81081815/152004360-4da10140-464d-415f-ab01-b3cbc1e858c9.png)
 
 ## 💬 소개
 - 디자인과 출신이어서 CSS와 자바스크립트를 이용한 디자인, 애니메이션에 대한 이해도가 높습니다. 
