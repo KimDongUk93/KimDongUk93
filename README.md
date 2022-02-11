@@ -34,11 +34,10 @@
 | 프로젝트 | 주소 |
 | ------ | ------ |
 | 부산학교폭력예방회복조정센터 | http://www.bsyc.or.kr/main/main.php |
-| 부산시설공단 | https://www.bisco.or.kr/sabo/2021_vol85/index.asp#mv |
 | 조선통신사행열 | http://www.tongsinsa.com/html/popup/journey/party_start.html | 
 | 부산연제문화원 | http://yjculture.co.kr/ | 
 | 부산문화재단 ONAT | http://onat.thewebs.kr/ | 
-| 부산문화재단 | ... |
+| 부산문화재단 | http://www.bscf.or.kr/main.do |
 
 ## 📫 개인 프로젝트
 | 프로젝트 | 주소 |
