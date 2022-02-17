@@ -1,4 +1,4 @@
-# 👋 안녕하세요! UI/UX개발자 김동욱입니다.
+# 👋 안녕하세요! 프론트엔드 개발자 김동욱입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
 >**현재상태** : #프론트엔드 #핀테크 #UI/UX #블록체인 #타입스크립트  
