@@ -1,8 +1,7 @@
 # 👋 안녕하세요! 프론트엔드 개발자 김동욱입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
->**현재상태** : #프론트엔드 #UI/UX  
->**홈페이지** : 준비중...  
+>**현재상태** : #UI/UX 개발 #프론트엔드 개발
 >**이메일** : ehddnr3540@gmail.com    
 >**KakaoID** : ehddnr3540    
 >**좋아하는 기술** : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
@@ -41,11 +40,9 @@
 ## 📫 개인 프로젝트
 | 프로젝트 | 주소 |
 | ------ | ------ |
-| 리액트 영화검색앱 | https://github.com/KimDongUk93/MovieApp_React |
-| 리액트+리덕스+타입스크립트 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_ReactReduxTS |
-| MERN(MongoDB, Express, React) 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_MERN |
-| (MongoDB, Express) 마크다운 블로그앱 | https://github.com/KimDongUk93/MarkDownBlog_ExpressMongoDB |
 | 자바스크립트 프로젝트 | https://github.com/KimDongUk93/JavascriptProject |
+| 리액트+리덕스+타입스크립트 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_ReactReduxTS |
+| MERN(MongoDB, Express, React) 쇼핑앱 | https://github.com/KimDongUk93/ShoppingApp_MERN | 
 
 ## 📚 참여프로젝트
 | 프로젝트 | 주소 |
@@ -63,12 +60,7 @@ ___
 ```
 ### `- 관심이 많고 흥미롭게 보고 있습니다.` 
 ```sh
-- `Bootstrap, GSAP, Next.js, Express, GraphQL`
-```
-
-### `- 사용하는 도구들입니다.`
-```sh
-- Git, VSCode, Photoshop
+- `Bootstrap, GSAP, Next.js, GraphQL, Express`
 ```
 
 ## 🙆‍ 학력
@@ -79,4 +71,3 @@ ___
 ## 💬 자격증
 - 컴퓨터그래픽스운용기능사
 - 웹디자인기능사
-- 정보처리기사(준비중...)
