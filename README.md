@@ -1,7 +1,7 @@
 # 👋 안녕하세요! 프론트엔드 개발자 김동욱입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
->**현재상태** : #UI/UX 개발 #프론트엔드 개발
+>**현재상태** : #UI/UX 개발 #프론트엔드 개발  
 >**이메일** : ehddnr3540@gmail.com    
 >**KakaoID** : ehddnr3540    
 >**좋아하는 기술** : ![](https://img.shields.io/badge/HTML5-e56128?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/CSS3-2ca1d3?style=flat-square&logo=CSS3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-cfb02a?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/React-4cafc8?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Redux-793fb9?style=flat-square&logo=Redux&logoColor=white)
