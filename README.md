@@ -1,4 +1,4 @@
-# 프론트엔드 개발자 김동욱입니다.
+# 👋프론트엔드 개발자 김동욱입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
 >**현재상태** : #프론트엔드 #UI/UX 
