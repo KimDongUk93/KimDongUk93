@@ -1,4 +1,4 @@
-# 👋프론트엔드 개발자 김동욱입니다.
+# �프론트엔드 개발자 김동욱입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimDongUk93&&show_icons=true&theme=vue-dark) 
 >**현재상태** : #프론트엔드 #UI/UX 
@@ -12,8 +12,6 @@
 > `개인 블로그(벨로그)` : https://velog.io/@404  
 > `백준 알고리즘(브론즈)` : https://www.acmicpc.net/user/ehddnr3540  
 > `숨고 프리랜서` : https://soomgo.com/profile/users/5602382?prev=searchPro&from=%EC%A7%80%EC%A0%95%EC%9A%94%EC%B2%AD%EC%84%9C  
-
-![숨고](https://user-images.githubusercontent.com/81081815/152004360-4da10140-464d-415f-ab01-b3cbc1e858c9.png)
 
 ## 💬 소개
 - "플랫폼 개발, 프론트엔드, UI/UX"에 관심이 많습니다.
